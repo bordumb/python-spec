@@ -1,0 +1,9 @@
+# spec.toml
+language = "python"
+project_type = "web_scraper"
+description = "A simple web scraper to test the Spex Hub submission."
+
+[project]
+name = "my-test-spec"
+version = "0.1.0"
+description = "A test project for the community hub."
